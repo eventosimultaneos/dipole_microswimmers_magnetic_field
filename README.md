@@ -8,4 +8,6 @@ At the microscale, microswimmers have gained attention due to their potential ap
 
 ## Repository Contents
 
+* `analysis.ipynb`: Jupyter Notebook containing code cells that invoke the main functions to generate, analyze, and visualize simulation data.
 * `final_functions.py`: Python module containing the complete set of functions used for data generation, processing, analysis, and visualization related to the Brownian Dynamics simulations.
+* `simulation.py`: Python script that runs the animated simulation of the dipolar microswimmers.
